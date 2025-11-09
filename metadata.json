@@ -1,0 +1,5 @@
+{
+  "name": "AI Knowledge Quiz",
+  "description": "A mock quiz system to test your knowledge on AI, Big Data, and Smart Technologies. The quiz consists of 50 questions with a total of 1000 points. A score of 700 or more is required to pass.",
+  "requestFramePermissions": []
+}
